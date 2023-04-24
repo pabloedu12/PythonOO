@@ -10,3 +10,4 @@ def saca(conta, valor):
 
 def extrato(conta):
     print(f'O saldo atual é de: R${conta["saldo"]}')
+    
